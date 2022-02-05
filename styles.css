@@ -51,13 +51,12 @@ body {
   z-index: -1;
 }
 .qr {
-  /* background-color: hsl(0, 0%, 100%); */
   width: 175px;
   height: 175px;
   z-index: 10;
 }
 .text-box {
-  margin-top: 20px;
+  margin-top: 30px;
   padding: 15px;
 }
 .text-box > h2 {
